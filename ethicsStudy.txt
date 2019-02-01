@@ -1,0 +1,52 @@
+Syrian Electronic Army Hackers Attack Guardian Twitter Accounts
+
+Jacob Bos, 1480063:
+
+STATEMENT OF THE ETHICAL ISSUE OR QUESTION
+
+Does the Syrian Electronic Army have just ethical grounds for their attack?
+
+APPLICABLE ETHICAL STANDARDS
+
+Ethical Frameworks to take into consideration include…
+1.	Utilitarian Ethics
+2.	Duty Ethics
+3.	Virtue Ethics
+
+SPECIFIC APPLICATION OF THE STANDARDS TO THE ISSUE
+
+For each of the ethical standards takin into account I will breakdown the ethics of the Syrian Electronic Army (SEA) per framework.
+1.	Utilitarian Ethics
+	a.	Under Utilitarian ethics, we need to look at three different aspects of the even. First, the net good 
+		accomplished, second, how it affected the most number of people, and last, highlight the winners and losers of this event. 
+		The outcome of the Syrian electronic army attack on the guardian twitter accounts ended with the stock exchange falling, 
+		panic in our nation, and website down time for the guardian. The net good accomplish helped SEA (Syria’s population being 
+		approximately 18,413,655 – [2]) and negatively impacted our country and our allies (approximately 935,177,144 in 
+		population – [2]). Overall there is a much larger percentage negatively impacted rather than positively. SEA definitely 
+		won in their desire to hurt our country and allies, and because the net number of people were negatively impacted this 
+		interaction is unethical from a utilitarian perspective.
+2.	Duty Ethics
+	a.	Under Duty ethics (aka Deontological ethics) we look at the morality of the action as right or wrong with rules instead 
+		of consequences. As the two opposing entities are under different structured frameworks we look to the highest framework we have which 
+		comes from the United Nations, a worldwide organization that has established international law. The NATO CCDCOE or Cooperative Cyber 
+		Defense Centre of Excellence has an online library of documentation pertaining to cyber security. I found a document on “Cyber Weapon 
+		Reviews under International Law: A Critical Analysis” – [1] which provided insight into the rules pertaining to worldwide cyber security. 
+		There is mention that Nato considers cybersecurity to be an additional field of warfare in which it must operate, just as air, sea, 
+		and land are. The use of phishing emails to hack into another system without the owner knowing of it is a violation in this field of 
+		warfare. Thus I find that SEA violated duty ethics by making an attack against the owner of a software infrastructure without 
+		permission to do so.
+3.	Virtue Ethics
+	a.	Under Virtue ethics we base the morality under the heart and character of the agent themselves, which in this case is the 
+		entity SEA. Using the framework that the agent’s virtue should seek to replicate virtuous character we will make a case for morality. The 
+		decision to proceed in the cyber assault on the guardian, the United States, and her allies has to be compared to the idea if a virtuous 
+		person would have done the same. A virtous person in the Syrian culture would be. I saw a statistic from google that the country has a 
+		population of 80% muslim so they would see the prophet Muhammed as virtuous. Islam literally is interpreted as peace, just with that alone 
+		you would conclude that the virtue is being compromised.
+
+ETHICAL CONCLUSION REACHED
+
+Upon finishing the ethical breakdown of the Syrian Electronic Army I have found that they have no ethical grounds for attacking Guardian twitter accounts.
+
+BIBLIOGRAPHY
+[1] Wallace, David. “Cyber Weapon Reviews under International Humanitarian Law: A Critical Analysis.” Ccdcoe.org, 2018, ccdcoe.org/uploads/2018/10/TP-11_2018.pdf.
+[2] Total Population by Country 2019. (2018-11-21). Retrieved 2019-02-01, from http://worldpopulationreview.com/countries/
